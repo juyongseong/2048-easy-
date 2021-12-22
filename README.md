@@ -1,4 +1,4 @@
-What's the biggest number that can come out in five movement?
+### 소개
 visual studio 2017으로 만들었습니다.
 devc+ 과같은 환경에서도 돌아갑니다.
 파일을 읽어서 편의성을 높일수 있었지만 코드를 사용하는 사람의 편의성을 위해 키보드로 stdin, stdout을 사용하도록 하였습니다.
@@ -10,3 +10,13 @@ devc+ 과같은 환경에서도 돌아갑니다.
 한번 합쳐진 수는 더이상 합쳐지지 않습니다.
 5번의 움직임만으로 만들수 있는 가장큰수를 찾고 대답하면 게임이 끝납니다.
 게임의 형식에 맞춰서 원하는 데이터를 넣고 게임을 돌려도 됩니다.
+
+### 인터페이스
+What's the biggest number that can come out in five movement?
+
+8 : KB_UP
+2 : KB_DOWN
+4 : KB_LEFT
+6 : KB_RIGHT
+-1 : Answer
+1movent (KB_code):
